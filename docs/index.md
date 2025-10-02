@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+Source code of this documentation to be found at: https://github.com/olivierbonte/test_documentation
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
