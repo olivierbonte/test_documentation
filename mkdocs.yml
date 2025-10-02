@@ -1,0 +1,4 @@
+site_name: Test documentation for H-CEL
+site-url: https://olivierbonte.github.io/test_documentation/ # has to be this for github pages
+theme:
+  name: material
